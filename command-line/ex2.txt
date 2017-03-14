@@ -1,0 +1,1 @@
+CMD+t to create a new tab
